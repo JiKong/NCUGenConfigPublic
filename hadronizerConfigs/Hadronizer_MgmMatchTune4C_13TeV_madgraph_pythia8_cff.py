@@ -9,7 +9,7 @@ from FWCore.ParameterSet.VarParsing import VarParsing
 options = VarParsing ('analysis')
 options.parseArguments()
 
-
+test1
 
 
 process = cms.Process('GEN')
